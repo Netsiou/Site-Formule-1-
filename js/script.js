@@ -1,4 +1,0 @@
-function boutton(){
-    alert("Bienvenue")
-
-}
